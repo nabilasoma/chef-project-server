@@ -1,0 +1,51 @@
+
+    [
+      {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "ingredients": ["spaghetti", "beef mince", "onion", "garlic", "canned tomatoes", "tomato paste"],
+        "method": "1. Cook spaghetti according to package instructions. \n2. In a separate pan, cook beef mince until browned. \n3. Add onion and garlic and cook until softened. \n4. Stir in canned tomatoes and tomato paste. \n5. Simmer for 15-20 minutes. Serve hot.",
+        "rating": 4.2,
+        "isFavorite": true
+      },
+      {
+        "id": 2,
+        "name": "Chicken Curry",
+        "ingredients": ["chicken thighs", "onion", "garlic", "ginger", "curry powder", "coconut milk"],
+        "method": "1. Heat oil in a pan and cook chicken until browned. \n2. Remove chicken from pan and set aside. \n3. Add onion, garlic, and ginger to the same pan and cook until softened. \n4. Stir in curry powder and cook for 1 minute. \n5. Add coconut milk and simmer for 10-15 minutes. \n6. Return chicken to pan and cook until heated through. Serve hot.",
+        "rating": 4.5,
+        "isFavorite": false
+      },
+      {
+        "id": 3,
+        "name": "Fettuccine Alfredo",
+        "ingredients": ["fettuccine", "butter", "heavy cream", "parmesan cheese", "garlic"],
+        "method": "1. Cook fettuccine according to package instructions. \n2. In a separate pan, melt butter and stir in heavy cream. \n3. Add parmesan cheese and garlic, and stir until sauce thickens. \n4. Toss cooked fettuccine in sauce. Serve hot.",
+        "rating": 4.8,
+        "isFavorite": true
+      },
+      {
+        "id": 4,
+        "name": "Beef Stew",
+        "ingredients": ["beef chuck", "carrots", "potatoes", "onion", "beef broth", "tomato paste"],
+        "method": "1. In a pot, brown beef chuck. \n2. Add onion and cook until softened. \n3. Stir in beef broth, tomato paste, and vegetables. \n4. Simmer for 1-2 hours. Serve hot.",
+        "rating": 4.0,
+        "isFavorite": false
+      },
+      {
+        "id": 5,
+        "name": "Pesto Chicken Salad",
+        "ingredients": ["chicken breasts", "mixed greens", "tomatoes", "cucumber", "pesto"],
+        "method": "1. Grill chicken breasts until cooked through. \n2. Slice chicken and toss with mixed greens, tomatoes, cucumber, and pesto. Serve cold.",
+        "rating": 4.4,
+        "isFavorite": true
+      },
+      {
+        "id": 6,
+        "name": "Beef Stew",
+        "ingredients": ["beef chuck", "carrots", "potatoes", "onion", "beef broth", "tomato paste"],
+        "method": "1. In a pot, brown beef chuck. \n2. Add onion and cook until softened. \n3. Stir in beef broth, tomato paste, and vegetables. \n4. Simmer for 1-2 hours. Serve hot.",
+        "rating": 4.0,
+        "isFavorite": true
+      }
+    ]
