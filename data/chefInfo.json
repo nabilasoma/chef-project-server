@@ -2,50 +2,80 @@
     [
       {
         "id": 1,
+        "bio": "Julia is a Chinese chef with over 8 years of experience in the culinary industry. She specializes in Sichuan cuisine and is known for her bold and spicy dishes.",
+        "picture": "https://www.reviewjournal.com/wp-content/uploads/2023/02/17488478_web1_web_M.Y.-Asia_Martin-Yan-Dishes.jpg?crop=1",
         "name": "Spaghetti Bolognese",
         "ingredients": ["spaghetti", "beef mince", "onion", "garlic", "canned tomatoes", "tomato paste"],
         "method": "1. Cook spaghetti according to package instructions. \n2. In a separate pan, cook beef mince until browned. \n3. Add onion and garlic and cook until softened. \n4. Stir in canned tomatoes and tomato paste. \n5. Simmer for 15-20 minutes. Serve hot.",
         "rating": 4.2,
-        "isFavorite": true
+        "isFavorite": true,
+        "likes": 800,
+        "numRecipes": 40,
+        "yearsOfExp": 20
       },
       {
         "id": 2,
+        "bio": "John is an award-winning chef with over 15 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his creative and innovative dishes.",
+        "picture": "https://nerdyfoodies.com/wp-content/uploads/2020/10/Famous-Chinese-Chefs-1024x683.jpg",
         "name": "Chicken Curry",
         "ingredients": ["chicken thighs", "onion", "garlic", "ginger", "curry powder", "coconut milk"],
         "method": "1. Heat oil in a pan and cook chicken until browned. \n2. Remove chicken from pan and set aside. \n3. Add onion, garlic, and ginger to the same pan and cook until softened. \n4. Stir in curry powder and cook for 1 minute. \n5. Add coconut milk and simmer for 10-15 minutes. \n6. Return chicken to pan and cook until heated through. Serve hot.",
         "rating": 4.5,
-        "isFavorite": false
+        "isFavorite": false,
+        "likes": 950,
+        "numRecipes": 35,
+        "yearsOfExp": 10
       },
       {
         "id": 3,
+        "bio": "Maria is a Mexican chef with over 10 years of experience in the food industry. She is known for her authentic Mexican dishes and has won numerous awards for her culinary skills.",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaCzZsZGyHNVErUsVMVUNvqm5KIOJDI3Am_Q&usqp=CAU",
         "name": "Fettuccine Alfredo",
         "ingredients": ["fettuccine", "butter", "heavy cream", "parmesan cheese", "garlic"],
         "method": "1. Cook fettuccine according to package instructions. \n2. In a separate pan, melt butter and stir in heavy cream. \n3. Add parmesan cheese and garlic, and stir until sauce thickens. \n4. Toss cooked fettuccine in sauce. Serve hot.",
         "rating": 4.8,
-        "isFavorite": true
+        "isFavorite": true,
+        "likes": 600,
+        "numRecipes": 25,
+        "yearsOfExp": 8
       },
       {
         "id": 4,
+        "bio": "David is a Korean-American chef with over 20 years of experience in the food industry. He is known for his fusion dishes that combine traditional Korean flavors with modern cooking techniques.",
+        "picture": "https://media.istockphoto.com/id/174772192/photo/chinese-chef.jpg?s=612x612&w=0&k=20&c=M1cL2DZYKzujRAHMGuxh0qE8sjG4RGQOanf1krY5J6g=",
         "name": "Beef Stew",
         "ingredients": ["beef chuck", "carrots", "potatoes", "onion", "beef broth", "tomato paste"],
         "method": "1. In a pot, brown beef chuck. \n2. Add onion and cook until softened. \n3. Stir in beef broth, tomato paste, and vegetables. \n4. Simmer for 1-2 hours. Serve hot.",
         "rating": 4.0,
-        "isFavorite": false
+        "isFavorite": false,
+        "likes": 600,
+        "numRecipes": 25,
+        "yearsOfExp": 8
       },
       {
         "id": 5,
+        "bio": "Pierre is a French chef with over 30 years of experience in the food industry. He is a classically trained chef and is known for his traditional French dishes.",
+        "picture": "https://absolutely.london/wp-content/uploads/2017/05/Untitled-1-5-1068x712.jpg",
         "name": "Pesto Chicken Salad",
         "ingredients": ["chicken breasts", "mixed greens", "tomatoes", "cucumber", "pesto"],
         "method": "1. Grill chicken breasts until cooked through. \n2. Slice chicken and toss with mixed greens, tomatoes, cucumber, and pesto. Serve cold.",
         "rating": 4.4,
-        "isFavorite": true
+        "isFavorite": true,
+        "likes": 1500,
+        "numRecipes": 60,
+        "yearsOfExp": 30
       },
       {
         "id": 6,
+        "bio": "Linda is an American chef with over 5 years of experience in the culinary industry. She specializes in vegan and vegetarian cuisine and is known for her healthy and flavorful dishes.",
+        "picture": "https://5.imimg.com/data5/SELLER/Default/2022/3/CT/HX/YQ/148640419/hire-chinese-chef-for-cafe-1000x1000.jpg",
         "name": "Beef Stew",
         "ingredients": ["beef chuck", "carrots", "potatoes", "onion", "beef broth", "tomato paste"],
         "method": "1. In a pot, brown beef chuck. \n2. Add onion and cook until softened. \n3. Stir in beef broth, tomato paste, and vegetables. \n4. Simmer for 1-2 hours. Serve hot.",
         "rating": 4.0,
-        "isFavorite": true
+        "isFavorite": true,
+        "likes": 400,
+        "numRecipes": 20,
+        "yearsOfExp": 5
       }
     ]
