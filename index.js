@@ -9,6 +9,10 @@ const chefInfo = require('./data/chefInfo.json');
 app.use(cors());
 
 
+// app.get('/', (req, res) => {
+//     res.send('hello world')
+// })
+
 app.get('/', (req, res) => {
     res.send('hello world')
 })
