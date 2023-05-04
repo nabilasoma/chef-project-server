@@ -7,10 +7,12 @@
         "picture": "https://www.reviewjournal.com/wp-content/uploads/2023/02/17488478_web1_web_M.Y.-Asia_Martin-Yan-Dishes.jpg?crop=1",
         "likes": 1200,
         "numRecipes": 50,
+        "foodName": ["Milk Aslel", "Beef Stew", "chicken Samba"],
         "yearsOfExp": 15
       },
       {
         "id": 2,
+        "foodName": ["Almasa Islia", "Beef Stew", "Curry Masala"],
         "name": "Maria Rodriguez",
         "bio": "Maria is a Mexican chef with over 10 years of experience in the food industry. She is known for her authentic Mexican dishes and has won numerous awards for her culinary skills.",
         "picture": "https://nerdyfoodies.com/wp-content/uploads/2020/10/Famous-Chinese-Chefs-1024x683.jpg",
@@ -20,6 +22,7 @@
       },
       {
         "id": 3,
+        "foodName": ["Masala Delite", "Beef Stew", "chicken Samba"],
         "name": "David Lee",
         "bio": "David is a Korean-American chef with over 20 years of experience in the food industry. He is known for his fusion dishes that combine traditional Korean flavors with modern cooking techniques.",
         "picture": "https://www.nimanranch.com/wp-content/uploads/2019/05/Pinch-Chinese-Chef-Hua-Zhang-1024x1024-1.jpg",
@@ -29,6 +32,7 @@
       },
       {
         "id": 4,
+        "foodName": ["Chicken Aslo", "Beef Stew", "chicken Samba, Chicken LolyPop"],
         "name": "Julia Chen",
         "bio": "Julia is a Chinese chef with over 8 years of experience in the culinary industry. She specializes in Sichuan cuisine and is known for her bold and spicy dishes.",
         "picture": "https://media.istockphoto.com/id/174772192/photo/chinese-chef.jpg?s=612x612&w=0&k=20&c=M1cL2DZYKzujRAHMGuxh0qE8sjG4RGQOanf1krY5J6g=",
@@ -38,6 +42,7 @@
       },
       {
         "id": 5,
+        "foodName": ["Beef Stew", "chicken Malaka"],
         "name": "Pierre Dupont",
         "bio": "Pierre is a French chef with over 30 years of experience in the food industry. He is a classically trained chef and is known for his traditional French dishes.",
         "picture": "https://absolutely.london/wp-content/uploads/2017/05/Untitled-1-5-1068x712.jpg",
@@ -47,6 +52,7 @@
       },
       {
         "id": 6,
+        "foodName": ["Spaghetti Bolognese", "Beef Stew", "chicken Samba"],
         "name": "Linda Johnson",
         "bio": "Linda is an American chef with over 5 years of experience in the culinary industry. She specializes in vegan and vegetarian cuisine and is known for her healthy and flavorful dishes.",
         "picture": "https://5.imimg.com/data5/SELLER/Default/2022/3/CT/HX/YQ/148640419/hire-chinese-chef-for-cafe-1000x1000.jpg",

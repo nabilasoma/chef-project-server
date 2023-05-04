@@ -20,6 +20,10 @@ app.get('/', (req, res) => {
     res.send('hello world')
 })
 
+// app.get('/allChef', (req, res) => {
+//     res.send(allChef)
+// })
+
 app.get('/allChef/:id', (req, res) => {
     res.send(allChef)
 })
